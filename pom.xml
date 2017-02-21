@@ -27,7 +27,7 @@
     </parent>
     <groupId>com.github.jcustenborder</groupId>
     <artifactId>salesforce-restclient</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1.1-SNAPSHOT</version>
     <name>salesforce-restclient</name>
     <url>https://github.com/jcustenborder/salesforce-restclient</url>
     <inceptionYear>2017</inceptionYear>
